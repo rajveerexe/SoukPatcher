@@ -2,5 +2,10 @@
   "3.11" : "https://raw.githubusercontent.com/rajveerexe/SoukPatcher/refs/heads/main/3.11/soukpatch-1.0.0-py3-none-any.whl",
   "3.12" : "https://raw.githubusercontent.com/rajveerexe/SoukPatcher/refs/heads/main/3.12/soukpatch-1.0.0-py3-none-any.whl",
   "3.13" : "https://raw.githubusercontent.com/rajveerexe/SoukPatcher/refs/heads/main/3.13/soukpatch-1.0.0-py3-none-any.whl",
-  "install" : "https://raw.githubusercontent.com/rajveerexe/SoukPatcher/refs/heads/main/install.py"
+  "install" : "https://raw.githubusercontent.com/rajveerexe/SoukPatcher/refs/heads/main/install.py",
+  "helper" : {
+    "3.11" : "https://raw.githubusercontent.com/rajveerexe/SoukPatcher/refs/heads/main/Helper/3.11.py",
+    "3.12" : "https://raw.githubusercontent.com/rajveerexe/SoukPatcher/refs/heads/main/Helper/3.12.py",
+    "3.13" : "https://raw.githubusercontent.com/rajveerexe/SoukPatcher/refs/heads/main/Helper/3.13.py",
+  }
 }
